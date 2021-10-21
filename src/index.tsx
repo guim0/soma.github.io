@@ -2,9 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import "../src/index.css";
+import { BrowserRouter } from "react-router-dom";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
