@@ -1,0 +1,2 @@
+(this["webpackJsonpsoma.github.io"]=this["webpackJsonpsoma.github.io"]||[]).push([[0],{10:function(e,t,n){},11:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),s=n(3),o=n.n(s),r=(n(8),n(0));var a=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"Good times are coming"}),Object(r.jsx)("h1",{children:"SOMA"})]})};n(10);o.a.render(Object(r.jsx)(i.a.StrictMode,{children:Object(r.jsx)(a,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.6d92b867.chunk.js.map

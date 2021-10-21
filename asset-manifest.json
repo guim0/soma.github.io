@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soma.github.io/static/css/main.cb80e6e9.chunk.css",
+    "main.js": "/soma.github.io/static/js/main.6d92b867.chunk.js",
+    "main.js.map": "/soma.github.io/static/js/main.6d92b867.chunk.js.map",
+    "runtime-main.js": "/soma.github.io/static/js/runtime-main.fc486cd6.js",
+    "runtime-main.js.map": "/soma.github.io/static/js/runtime-main.fc486cd6.js.map",
+    "static/js/2.5a2412f3.chunk.js": "/soma.github.io/static/js/2.5a2412f3.chunk.js",
+    "static/js/2.5a2412f3.chunk.js.map": "/soma.github.io/static/js/2.5a2412f3.chunk.js.map",
+    "index.html": "/soma.github.io/index.html",
+    "static/css/main.cb80e6e9.chunk.css.map": "/soma.github.io/static/css/main.cb80e6e9.chunk.css.map",
+    "static/js/2.5a2412f3.chunk.js.LICENSE.txt": "/soma.github.io/static/js/2.5a2412f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc486cd6.js",
+    "static/js/2.5a2412f3.chunk.js",
+    "static/css/main.cb80e6e9.chunk.css",
+    "static/js/main.6d92b867.chunk.js"
+  ]
+}
